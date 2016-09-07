@@ -20,7 +20,7 @@ Package Control.ca-certs/
 ```
 cd [package folder]/User/
 git init
-git add
+git add .
 git commit -m "Initial"
 git remote add origin [your git repo]
 git push origin master
